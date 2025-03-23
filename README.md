@@ -18,24 +18,24 @@ This project analyzes movie data, including **ratings, genres, and reviews**, to
 ## 📊 Key Insights & Visualizations  
 
 ### 📄 **Page 1: Movie Ratings & Trends**  
-✔ **Trend Analysis**: Average rating trends over time 📈  
-✔ **Genre Popularity**: Most popular genres by count of movies 🎭  
+✔ **Trend Analysis**: Average rating trends over time
+✔ **Genre Popularity**: Most popular genres by count of movies 
 ✔ **Distribution of Ratings**: Histogram of ratings vs. count of movies  
 ✔ **KPIs**:  
-  - 📌 **Most Rated Movie**  
-  - ⭐ **Highest Rated Genre**  
+  - **Most Rated Movie**  
+  - **Highest Rated Genre**  
 
 ### 📄 **Page 2: Sentiment Analysis & Engagement**  
-✔ **Sentiment Distribution**: % of positive vs. negative reviews 😊😡  
-✔ **Number of Reviews by Genre** 📝  
+✔ **Sentiment Distribution**: % of positive vs. negative reviews
+✔ **Number of Reviews by Genre**  
 ✔ **Rating Comparison**: Min, Max, and Average Ratings  
 
 ---
 
 ## ⚙ Features Added  
-✔ **Filters & Slicers**: Genre, Year, Sentiment 📊  
-✔ **KPIs**: Percentage of Positive Reviews 📍  
-✔ **Interactive Visuals**: Clickable genre distribution 📌  
+✔ **Filters & Slicers**: Genre, Year, Sentiment
+✔ **KPIs**: Percentage of Positive Reviews
+✔ **Interactive Visuals**: Clickable genre distribution
 
 ---
 
