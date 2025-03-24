@@ -1,5 +1,10 @@
 # 🎬 Movie Data Sentiment Analysis - Power BI Dashboard  
 
+## Walkthrough of the Dashboard
+https://drive.google.com/file/d/1vFgIKiT7UhFJDO4ipf0N395yvPu3G5IZ/view?usp=sharing
+
+---
+
 ## 📌 Project Overview  
 This project analyzes movie data, including **ratings, genres, and reviews**, to uncover key insights about audience preferences and sentiment. The final deliverable is an **interactive Power BI dashboard** that presents key findings.  
 
